@@ -10,15 +10,16 @@ Clone the repo and run:
 * Open the file in your text editor and make two changes: replace `bridge_ip` with your IP and `light` with the full name of the light you want to manage
 
 ## Usage
-If you are very busy, run:
+*If you are **very** busy:*
 
 `$ arehuebusy very`
 
-If you are kinda busy:
+*If you are **kinda** busy:*
 
 `$ arehuebusy kinda`
 
-If you're not so busy:
+*If you're **not** so busy:*
+
 `$ arehuebusy not`
 
 ## Customization
