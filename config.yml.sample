@@ -1,0 +1,12 @@
+bridge_ip: 10.10.10.10
+status:
+   very: 
+      color: ff0000 
+      brightness: 254
+   kinda: 
+      color: ffff00
+      brightness: 254
+   not: 
+      color: 00ff00
+      brightness: 254
+light: My Desk Lamp
