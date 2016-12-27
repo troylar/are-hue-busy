@@ -8,14 +8,18 @@ Clone the repo and run:
 ## Configuration
 * Copy the `config.yml.sample` to `<home directory>/.arehuebusy.yml`
 * Open the file in your text editor and make two changes: replace `bridge_ip` with your IP and `light` with the full name of the light you want to manage
+
 ## Usage
 If you are very busy, run:
+
 `$ arehuebusy very`
 
 If you are kinda busy:
+
 `$ arehuebusy kinda`
 
 If you're not so busy:
 `$ arehuebusy not`
+
 ## Customization
 All of the statuses, color and brightness is read from the config file, so you can customize any of the settings to your liking.
